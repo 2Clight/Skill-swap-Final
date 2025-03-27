@@ -1,0 +1,4 @@
+.leaflet-top.leaflet-left {
+    top: 50px; /* Moves down */
+    left: 96%; /* Moves right */
+  }
